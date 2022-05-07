@@ -2,8 +2,8 @@
 <Summary> "Ability to select a line thickness value less than 1" </Summary>
 <Description> "The choice of a line thickness value less than 1 is possible by changing this parameter using the arrows" </Description>
 <Severity> "Critical" </Severity>
-<Steps to reproduce> "1. Select line thickness \"1\", 
-						          2. Click on the down arrow in the line thickness selection field, 
-						          3. Click again on the down arrow in the line thickness selection field " </Steps to reproduce>
-<Actual Result> "\"0\" appears in the line thickness selection field, then \"-1\"" </Actual Result>
-<Expected Result> "\"1\" remains in the line thickness selection field (does not change) </Expected Result>
+<Steps to reproduce> "1. Select line thickness "1", 
+		      2. Click on the down arrow in the line thickness selection field, 
+		      3. Click again on the down arrow in the line thickness selection field " </Steps to reproduce>
+<Actual Result> ""0" appears in the line thickness selection field, then "-1"" </Actual Result>
+<Expected Result> ""1" remains in the line thickness selection field (does not change)" </Expected Result>
