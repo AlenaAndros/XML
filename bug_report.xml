@@ -1,9 +1,9 @@
-<Bug_ID> TR-001 </Bug_ID>
-<Summary> Ability to select a line thickness value less than 1 </Summary>
-<Description> The choice of a line thickness value less than 1 is possible by changing this parameter using the arrows </Description>
-<Severity> Critical </Severity>
-<Steps_to_reproduce> 1. Select line thickness &quot; 1 &quot;, 
-		     2. Click on the down arrow in the line thickness selection field, 
-		     3. Click again on the down arrow in the line thickness selection field  </Steps_to_reproduce>
-<Actual_Result> &quot; 0 &quot; appears in the line thickness selection field, then &quot; -1 &quot; </Actual_Result>
-<Expected_Result> &quot; 1 &quot; remains in the line thickness selection field (does not change) </Expected_Result>
+<xml>
+	<Bug_ID> TR-001 </Bug_ID>
+	<Summary> Ability to select a line thickness value less than 1 </Summary>
+	<Description> The choice of a line thickness value less than 1 is possible by changing this parameter using the arrows </Description>
+	<Severity> Critical </Severity>
+	<Steps_to_reproduce> 1. Select line thickness &quot; 1 &quot;, \n 2. Click on the down arrow in the line thickness selection field, \n 3. Click again on the down arrow in the line thickness selection field  </Steps_to_reproduce>
+	<Actual_Result> &quot; 0 &quot; appears in the line thickness selection field, then &quot; -1 &quot; </Actual_Result>
+	<Expected_Result> &quot; 1 &quot; remains in the line thickness selection field (does not change) </Expected_Result>
+</xml>
