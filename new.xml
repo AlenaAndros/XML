@@ -1,4 +1,6 @@
- 	<Full_name> Alena A And </Full_name>
+ <xml>
+        <Full_name> Alena A And </Full_name>
         <Age> 20  </Age>
         <Nunber_of_pets> 1 </Nunber_of_pets>
         <Future_desired_salary> 1000 </Future_desired_salary>
+</xml>
